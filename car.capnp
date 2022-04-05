@@ -108,7 +108,7 @@ struct CarEvent @0x9b1657f34caf3ad3 {
     lkasDisabled @107;
 
     radarCanErrorDEPRECATED @15;
-    communityFeatureDisallowedDEPRECATED @62;
+    communityFeatureDisallowed @62;
     radarCommIssueDEPRECATED @67;
     driverMonitorLowAccDEPRECATED @68;
     gasUnavailableDEPRECATED @3;
